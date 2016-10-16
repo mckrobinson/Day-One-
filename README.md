@@ -1,0 +1,2 @@
+# Day-One-
+My first day of learning to code started with exploring python turtle to create different shapes and images with certain codes on the program. We also started to process language through coding using the NLTK program and the different texts included in it like Moby Dick. We used codes to find how many words were in each text, how to find how a selected word was used through out the text, and how many times it was used
